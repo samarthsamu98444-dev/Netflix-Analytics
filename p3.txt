@@ -1,0 +1,21 @@
+payment_id,order_id,payment_method,payment_status
+1,101,Credit Card,Completed
+2,102,UPI,Completed
+3,103,Cash,Completed
+4,104,UPI,Completed
+5,105,Credit Card,Failed
+6,106,Credit Card,Completed
+7,107,Cash,Completed
+8,108,UPI,Completed
+9,109,Credit Card,Failed
+10,110,Debit Card,Completed
+11,111,Credit Card,Completed
+12,112,UPI,Completed
+13,113,Cash,Completed
+14,114,UPI,Completed
+15,115,Credit Card,Failed
+16,116,Debit Card,Completed
+17,117,UPI,Completed
+18,118,UPI,Completed
+19,119,Credit Card,Completed
+20,120,Cash,Completed
