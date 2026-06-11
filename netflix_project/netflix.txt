@@ -1,0 +1,16 @@
+show_id,type,title,director,country,release_year,rating,duration,genre
+1,Movie,Inception,Nolan,USA,2010,PG-13,148 min,Sci-Fi
+2,TV Show,Dark,Baran,Germany,2017,TV-MA,3 Seasons,Thriller
+3,Movie,Interstellar,Nolan,USA,2014,PG-13,169 min,Sci-Fi
+4,Movie,Parasite,Bong,South Korea,2019,R,132 min,Thriller
+5,TV Show,Money Heist,Alex Pina,Spain,2017,TV-MA,5 Seasons,Crime
+6,Movie,Avengers Endgame,Russo Brothers,USA,2019,PG-13,181 min,Action
+7,TV Show,Friends,David Crane,USA,1994,TV-14,10 Seasons,Comedy
+8,Movie,Joker,Todd Phillips,USA,2019,R,122 min,Drama
+9,Movie,Your Name,Shinkai,Japan,2016,PG,106 min,Anime
+10,TV Show,Stranger Things,Duffer Brothers,USA,2016,TV-14,4 Seasons,Sci-Fi
+11,Movie,3 Idiots,Hirani,India,2009,PG-13,170 min,Comedy
+12,Movie,Dangal,Nitesh Tiwari,India,2016,PG,161 min,Sports
+13,TV Show,Squid Game,Hwang Dong,South Korea,2021,TV-MA,1 Season,Thriller
+14,Movie,The Batman,Matt Reeves,USA,2022,PG-13,176 min,Action
+15,TV Show,Narcos,Jose Padilha,Colombia,2015,TV-MA,3 Seasons,Crime
